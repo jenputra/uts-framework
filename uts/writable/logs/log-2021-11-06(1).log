@@ -1,0 +1,702 @@
+CRITICAL - 2021-11-06 00:33:37 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:35:28 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:41:05 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:41:06 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:41:07 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:41:22 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:44:10 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:44:11 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:44:14 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:47:36 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:47:39 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:47:54 --> Object of class App\Models\BukuModel could not be converted to string
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 00:51:55 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:54:33 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:54:35 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:54:36 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:55:59 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:57:34 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:58:16 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 00:58:18 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 01:11:41 --> Invalid file: layout/templates.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('layout/template...', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('layout/template...', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:12:11 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('layout/template', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:12:14 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('layout/template', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:19:36 --> Invalid file: admin/layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/layout/te...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/layout/te...', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('admin/layout/te...', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:19:37 --> Invalid file: admin/layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/layout/te...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/layout/te...', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('admin/layout/te...', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:20:33 --> Invalid file: navbar.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('navbar.php')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('navbar', NULL, true)
+#2 C:\xampp\htdocs\uts\app\Views\admin\layout\template.php(16): CodeIgniter\View\View->include('navbar')
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/layout/te...', Array, true)
+#6 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('admin/layout/te...', Array)
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2021-11-06 01:20:35 --> Invalid file: navbar.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('navbar.php')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('navbar', NULL, true)
+#2 C:\xampp\htdocs\uts\app\Views\admin\layout\template.php(16): CodeIgniter\View\View->include('navbar')
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/layout/te...', Array, true)
+#6 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('admin/layout/te...', Array)
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2021-11-06 01:28:21 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): view('admin/index', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 01:54:01 --> Invalid file: /komik/create.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/komik/create.p...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('/komik/create', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(34): view('/komik/create', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->buat()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:55:56 --> Invalid file: /komik/create.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/komik/create.p...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('/komik/create', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(34): view('/komik/create', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->buat()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:55:58 --> Invalid file: /komik/create.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/komik/create.p...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('/komik/create', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(34): view('/komik/create', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->buat()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 01:57:39 --> Invalid file: /komik/create.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/komik/create.p...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('/komik/create', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(34): view('/komik/create', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->buat()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 02:02:38 --> Invalid file: /layout/template.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/layout/templat...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('/layout/templat...', Array, true)
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('/admin/buat', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(34): view('/admin/buat', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->buat()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2021-11-06 02:16:16 --> Table 'uts.komik' doesn't exist
+CRITICAL - 2021-11-06 02:16:16 --> Table 'uts.komik' doesn't exist
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(280): mysqli->query('SELECT 1\nFROM `...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Validation\Rules.php(161): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->is_unique('rama', 'judul', Array, NULL)
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('judul', 'judul', 'rama', Array, Array)
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(41): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->save()
+#10 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#11 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2021-11-06 03:07:37 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 73, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->save()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:13:47 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:15:23 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:15:25 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:17:02 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:17:04 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:17:05 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:17:05 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:17:05 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:18:37 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:21 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:22 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:22 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:23 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:23 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:23 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:23 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:20:23 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->index()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 03:23:13 --> Undefined property: App\Controllers\AdminController::$bukuModel
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->save()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2021-11-06 03:23:42 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2021-11-06 03:23:42 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(280): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Model.php(509): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Model.php(592): CodeIgniter\Model->countAllResults()
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\BaseModel.php(655): CodeIgniter\Model->shouldUpdate(Array)
+#7 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(80): CodeIgniter\BaseModel->save(Array)
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->save()
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-11-06 03:28:38 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2021-11-06 03:28:38 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(280): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Model.php(509): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Model.php(592): CodeIgniter\Model->countAllResults()
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\BaseModel.php(655): CodeIgniter\Model->shouldUpdate(Array)
+#7 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(80): CodeIgniter\BaseModel->save(Array)
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->save()
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-11-06 03:34:17 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2021-11-06 03:34:17 --> Unknown column 'created_at' in 'field list'
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(280): mysqli->query('INSERT INTO `bu...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bu...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bu...')
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bu...', Array, false)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(80): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->save()
+#10 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#11 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2021-11-06 04:09:56 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:13:57 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:22:34 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:22:35 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:22:35 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:22:35 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:22:35 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:22:36 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:24:05 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#3 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-11-06 04:27:48 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(90): App\Models\BukuModel->getBuku('4')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-06 04:28:28 --> Undefined index: penulis
+#0 C:\xampp\htdocs\uts\app\Views\admin\detail.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#4 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('4')
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-06 04:52:40 --> Undefined index: Gambar_sampul;
+#0 C:\xampp\htdocs\uts\app\Views\admin\detail.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('admin/detail', Array, true)
+#4 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(96): view('admin/detail', Array)
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->detail('5')
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-06 06:03:24 --> Invalid file: AdminController/edit.php
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('AdminController...')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('AdminController...', Array, true)
+#2 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(106): view('AdminController...', Array)
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->edit('6')
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-11-06 06:07:09 --> Undefined index: penulis
+#0 C:\xampp\htdocs\uts\app\Views\admin\edit.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('Admin/edit', Array, true)
+#4 C:\xampp\htdocs\uts\app\Controllers\AdminController.php(106): view('Admin/edit', Array)
+#5 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->edit('6')
+#6 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#7 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-06 06:20:57 --> Call to a member function delete() on null
+#0 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminController->delete('9')
+#1 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#2 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\uts\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\uts\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
